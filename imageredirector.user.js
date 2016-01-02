@@ -10,4 +10,4 @@
 // ==/UserScript==
 
 
-$('img').prop('src', function () { return this.src.replace(/^http\:/, '//:'); })
+$('img').prop('src', function () { return this.src.replace(/^http\:/, ''); })
