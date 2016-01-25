@@ -3,10 +3,6 @@
 // @namespace   https://github.com/RmG152/ImageRedirectorUserScript/
 // @version     0.1
 // @description	Redirect images url from http to relative path
-// @grant       none
-// @downloadURL	
-// @updateURL	
-
 // ==/UserScript==
 
 
