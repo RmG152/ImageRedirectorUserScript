@@ -7,6 +7,3 @@
 // @run-at document-idle
 // @description	Redirect images url from http to relative path
 // ==/UserScript==
-
-
-$('img').prop('src', function() { return this.src.replace(/^http\:/, ''); });
